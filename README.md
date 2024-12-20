@@ -1,8 +1,3 @@
-# Шаблон для студентов Нетологии - модуль AJS
+# Demo
 
-В шаблоне используется 9 версия линтера - пока что она не совместима со стилем airbnb.
-
-Если вы хотите использовать данный стиль в своей работе, то вам необходимо воспользоваться другим
-[шаблоном](https://github.com/ProfessorSeverusSnape/AJS-template-airbnb).
-
-Удачи в выполнении домашних заданий!
+[![Build status](https://ci.appveyor.com/api/projects/status/xtajiqi6lx7cjaal?svg=true)](https://ci.appveyor.com/project/auber1rd1sh/health-cidhx)
